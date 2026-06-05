@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎓 **Pre-Final Year B.E. CSE** at **SNS College of Technology**, Coimbatore *(GPA: 8.8 / 10)*
+🎓 **Final Year B.E. CSE** at **SNS College of Technology**, Coimbatore *(GPA: 8.8 / 10)*
 
 ☁️ Passionate about **Salesforce**, **Cloud Computing**, and **AI-powered** solutions that solve real-world problems
 
@@ -109,9 +109,9 @@
 📅 Timeline  ─────────────────────────────────────────────────────────────────────►
 ```
 
-**☁️ Cloud Intern · Infosys Springboard Pragathi** `Dec 2025 – Present · Online`
+**☁️ AI Intern · IBM Edunet** `May 2026 – June 2026 · Online`
 
-> Gaining hands-on experience with enterprise cloud technologies — cloud architecture, security fundamentals, and scalable deployment practices.
+> Gaining hands-on experience with AI & ML technologies and frameworks.
 
 ---
 
@@ -124,12 +124,6 @@
 **📈 Data Analyst Intern · Codtech IT Solutions** `Mar – Apr 2025 · Online`
 
 > Built data preprocessing pipelines, visualizations, and Tableau dashboards to derive business insights. Worked with PySpark and Excel for large-scale data tasks.
-
----
-
-**☁️ AWS Intern · Techsnapie Solutions** `Aug 2024 · Coimbatore`
-
-> Deployed scalable apps on EC2, designed NoSQL databases with DynamoDB, and utilized S3 for secure, scalable storage.
 
 ---
 
